@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.exercise-list{
+    height: 300px;
+    overflow: scroll;
+}
+.styled-table .createTest{
+    margin-right: 40px;
+}

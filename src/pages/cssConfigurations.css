@@ -1,0 +1,67 @@
+/* :root {
+    --custom-color: #B50006;
+    --dark-red: #610003;
+    --base-red: #E00007;
+    --red-brillant: #ED0008;
+    --red: #C70007;
+
+    --pink: #ffbaba;
+    --pink-red: #ff7b7b;
+    --pink-dark: #ff5252;
+
+    --black: black;
+    --white: white;
+
+    --grey-dark: #535353;
+  } */
+
+/* body {
+    font-family: 'Nunito', sans-serif;
+    color: #384047;
+  }
+
+form {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: var(--grey-dark);
+    border-radius: 8px;
+}
+
+h1 {
+    margin: 0 0 10px 0;
+    text-align: center;
+}
+
+input[type="password"],
+    input[type="text"],
+    input[type="date"],
+    input[type="datetime"],
+    input[type="email"],
+    input[type='document'],
+    input[type='name' ]
+    input[type='phone'],
+    input[type="number"],
+    input,  
+    textarea,
+    select {
+      background: rgba(255,255,255,0.1);
+      border: none;
+      font-size: 16px;
+      height: auto;
+      margin: 0;
+      outline: 0;
+      padding: 10px;
+      width: 100%;
+      background-color: var(--white);
+     
+      box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+      margin-bottom: 20px;
+      transition: .3 ease all;
+    }
+
+    #input-focus:focus{
+        border: 3px solid #0075FF;
+        outline: none;
+        box-shadow: 3px 0px 30px rgba(163, 163, 163, 0.4);
+      } */

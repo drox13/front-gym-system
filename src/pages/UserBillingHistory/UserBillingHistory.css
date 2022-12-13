@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.table-cell-user-header{
+    background-color: black;
+    color: white;
+}
